@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>es.dmunozfer</groupId>
-	<artifactId>test-jenkins</artifactId>
+	<artifactId>tutorial-jenkins-2</artifactId>
 	<version>1.0.1</version>
 	<packaging>war</packaging>
 
-	<name>Test Jenkins </name>
+	<name>Tutorial Jenkins 2</name>
 	<description>Aplicación de ejemplo para el tutorial de Jenkins 2</description>
 
 	<parent>
